@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "i live in the rural zone from purificacion-Tolima exactly in the Rural settlement of El Tambo, i am nineteen years old and I like programming",
+  "about.text":           "Vivo en la zona rural de Purificación-Tolima, específicamente en el asentamiento rural de El Tambo. Tengo diecinueve años y me gusta programar.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "purificacion, Colombia",

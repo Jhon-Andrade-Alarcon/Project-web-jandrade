@@ -67,12 +67,12 @@ const ES = {
   "project.1.title": "ninguno",
 
 
-  "contact.title":         "Contacto",
-  "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
-  "contact.emailLabel":    "Correo",
-  "contact.linkedinValue": "[Tu perfil profesional]",
+  "contact.title":         "3123665608",
+  "contact.intro":         "tienes un proyecto? escribeme!",
+  "contact.emailLabel":    "jhonandrade535@gmail.com",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+
+  "footer.note": "jhon sebastian andrade alarcon · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -138,12 +138,12 @@ const EN = {
 
   "project.3.title": "none",
 
-  "contact.title":         "Contact",
-  "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",
-  "contact.emailLabel":    "Email",
-  "contact.linkedinValue": "[Your professional profile]",
+  "contact.title":         "3123665608",
+  "contact.intro":         "Do you have a project? Write to me!",
+  "contact.emailLabel":    "jhonandrade535@gmail.com",
 
-  "footer.note": "[Your name] · Professional Technician in Web Programming · UniEspinal"
+
+  "footer.note": "jhon sebastian andrade alarcon · Professional Technician in Web Programming · UniEspinal"
 };
 
 

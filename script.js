@@ -56,22 +56,16 @@ const ES = {
   "resume.experience": "Experiencia",
 
   "edu.1.title": "Técnico Profesional en Programación Web",
-  "edu.1.text":  "[Una o dos frases sobre lo que estás aprendiendo y qué sabes hacer ahora.]",
-  "edu.2.title": "[Curso o certificación]",
-  "edu.2.text":  "[Qué aprendiste y para qué te sirve.]",
+  "edu.1.text":  "estoy aprendiendo laravel y el uso de las API",
+  "edu.2.title": "ninguna",
+  "edu.2.text":  "me sirve para desarrollar correctamente paguinas web",
 
-  "exp.1.title": "[Rol o tipo de proyecto]",
-  "exp.1.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
-  "exp.2.title": "[Rol o tipo de proyecto]",
-  "exp.2.text":  "[Qué hiciste, con qué herramientas y qué resultado tuvo.]",
+  "exp.1.title": "ninguno",
+",
 
   "portfolio.title": "Proyectos",
-  "project.1.title": "[Nombre del proyecto]",
-  "project.1.text":  "[Tecnologías usadas]",
-  "project.2.title": "[Nombre del proyecto]",
-  "project.2.text":  "[Tecnologías usadas]",
-  "project.3.title": "[Nombre del proyecto]",
-  "project.3.text":  "[Tecnologías usadas]",
+  "project.1.title": "ninguno",
+
 
   "contact.title":         "Contacto",
   "contact.intro":         "[Una frase invitando a escribirte. Por ejemplo: ¿Tienes un proyecto o una vacante? Escríbeme.]",
@@ -130,22 +124,19 @@ const EN = {
   "resume.experience": "Experience",
 
   "edu.1.title": "Professional Technician in Web Programming",
-  "edu.1.text":  "[One or two sentences about what you are learning and what you can do now.]",
-  "edu.2.title": "[Course or certificate]",
-  "edu.2.text":  "[What you learned and how you use it.]",
+  "edu.1.text":  "I'm learning Laravel and how to use APIs.",
+  "edu.2.title": "none",
+  "edu.2.text":  "It helps me develop websites correctly.",
 
-  "exp.1.title": "[Role or type of project]",
-  "exp.1.text":  "[What you did, which tools you used, and what the result was.]",
-  "exp.2.title": "[Role or type of project]",
-  "exp.2.text":  "[What you did, which tools you used, and what the result was.]",
+  "exp.1.title": "none",
+",
 
   "portfolio.title": "Projects",
-  "project.1.title": "[Project name]",
-  "project.1.text":  "[Technologies used]",
-  "project.2.title": "[Project name]",
-  "project.2.text":  "[Technologies used]",
-  "project.3.title": "[Project name]",
-  "project.3.text":  "[Technologies used]",
+  "project.1.title": "none",
+
+  "project.2.title": "none",
+
+  "project.3.title": "none",
 
   "contact.title":         "Contact",
   "contact.intro":         "[One sentence inviting people to write to you. Example: Have a project or a vacancy? Send me a message.]",

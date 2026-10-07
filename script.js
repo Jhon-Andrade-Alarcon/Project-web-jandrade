@@ -61,13 +61,13 @@ const ES = {
   "edu.2.text":  "me sirve para desarrollar correctamente paguinas web",
 
   "exp.1.title": "ninguno",
-",
+
 
   "portfolio.title": "Proyectos",
   "project.1.title": "ninguno",
 
 
-  "contact.title":         "3123665608",
+  "contact.title":         "",
   "contact.intro":         "tienes un proyecto? escribeme!",
   "contact.emailLabel":    "jhonandrade535@gmail.com",
 
@@ -129,7 +129,7 @@ const EN = {
   "edu.2.text":  "It helps me develop websites correctly.",
 
   "exp.1.title": "none",
-",
+
 
   "portfolio.title": "Projects",
   "project.1.title": "none",
@@ -138,7 +138,7 @@ const EN = {
 
   "project.3.title": "none",
 
-  "contact.title":         "3123665608",
+  "contact.title":         "",
   "contact.intro":         "Do you have a project? Write to me!",
   "contact.emailLabel":    "jhonandrade535@gmail.com",
 
